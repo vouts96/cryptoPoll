@@ -1,7 +1,7 @@
 # cryptoPoll
 the Anonymous Voting Platform
 
-Download cryptoPoll.py, hacker.ico, background2.png.
+Download cryptoPoll.py, hacker.ico, background2.png and save in the same folder.
 
 Run python script cryptoPoll.py
 
